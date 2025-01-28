@@ -1,0 +1,7 @@
+C:\Users\sasam\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\sasam\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\sasam\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\sasam\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\sasam\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sasam\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\sasam\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
